@@ -1,0 +1,8 @@
+﻿  ImgTest.cpp
+C:\Users\Arvid\source\repos\ImgTest\ImgTest\ImgTest.cpp(84,13): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 338 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImgTest.vcxproj -> C:\Users\Arvid\source\repos\ImgTest\Release\ImgTest.exe
